@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-name="ATV HD" tvg-logo="https://i.imgur.com/atv-logo.png" group-title="Perú",ATV HD
+http://181.189.244.252:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Fillka Tv" tvg-logo="https://i.imgur.com/fillka-logo.png" group-title="Perú",Fillka Tv
+https://media2.streambrothers.com:19360/8028/8028.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="Latina" tvg-logo="https://i.imgur.com/latina-logo.png" group-title="Perú",Latina
+http://179.51.136.19:8000/play/a1as/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="America" tvg-logo="https://i.imgur.com/america-logo.png" group-title="Perú",America
+http://200.60.124.19:29000/play/a04r/index.m3u8
